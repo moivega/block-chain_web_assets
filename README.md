@@ -1,1 +1,1 @@
-# daily_solidity
+# TS/JS/Solidity
