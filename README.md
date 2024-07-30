@@ -1,1 +1,1 @@
-#### TS / JS / Solidity / The Graph / NFT
+#### TS / JS / Solidity / The Graph / NFT / AI
